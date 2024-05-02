@@ -30,7 +30,7 @@ However, for fairness considerations, the model must take our provided data (i.e
 
 - We will send out the evaluation data on June 15th (tentative).
 - Participants must submit their predictions by June 20th (tentative) to be eligible for the final assessment and potential awards.
-- You can submit a 6-page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings once accepted.
+- You can submit an up to 6-page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings once accepted.
   
 ## What Can Be Explored?
 
