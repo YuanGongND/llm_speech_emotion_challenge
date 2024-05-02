@@ -10,7 +10,7 @@ We are excited to introduce the inaugural **LLM-Based Post ASR Speech Emotion Ch
 
 We use IEMOCAP dataset for this challenge. Please obtain its license first (if you already have it, please skip step 1).
 - Submit a request to SAIL lab at USC use [this link](https://docs.google.com/forms/d/e/1FAIpQLScBecgI2K5bFTrXi_-05IYSSwOcqL5mX7dh57xcJV1m_NoznA/viewform).
-- When registering this challenge, attach the approved license or screenshot of the approval email from USC as proof. We will then email you the **curated data in JSON format that can be directly used in this script (i.e., you do not need to preprocess the dataset)**.
+- Register the challenge use [this link](https://docs.google.com/forms/d/102aDN45BpiDoUdS3ZqN63Q9oTFBcICPsvmo-5GFrU3U/viewform?ts=66321d62&edit_requested=true), attach the approved license or screenshot of the approval email from USC as proof. We will then email you the **curated data in JSON format that can be directly used in this script (i.e., you do not need to preprocess the dataset)**.
 
 
 ### Step 2: Build Your Model
@@ -30,7 +30,7 @@ However, for fairness considerations, the model must take our provided data (i.e
 
 - We will send out the evaluation data on June 15th (tentative).
 - Participants must submit their predictions by June 20th (tentative) to be eligible for the final assessment and potential awards.
-- You can submit a paper to SLT2024, it will be included in the main SLT 2024 proceedings once accepted.
+- You can submit a 6-page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings once accepted.
   
 ## What Can Be Explored?
 
