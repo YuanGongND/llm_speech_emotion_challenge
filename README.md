@@ -63,7 +63,7 @@ To encourage innovation, we do not place any restrictions on the methods used, a
 However, for fairness considerations, the model must take our provided data (i.e., ASR transcripts) as input. You cannot:
 - Use raw audio data as input.
 - Use your own ASR model to transcribe the audio.
-- You cannot use any ground-truth emotion label in the entire conversation as prior knowledge.
+- You cannot use any ground-truth emotion label in the entire conversation as prior knowledge, we will not provide ground truth label for our evaluation set.
 - You can use the conversation prior to the sentence requiring a prediction as context, but NOT the conversation that follows. I.e., it needs to be causal inference.
 
 ### Step 3: Evaluation Phase
