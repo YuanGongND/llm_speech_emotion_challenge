@@ -65,8 +65,8 @@ However, for fairness considerations, the model must take our provided data (i.e
 ### Step 3: Evaluation Phase
 
 - Models will be evaluated with 4-class unweighted average accuracy.
-- We will send out the evaluation data on June 15th (tentative).
-- Participants must submit their predictions by June 20th (tentative) to be eligible for the final assessment and potential awards.
+- We will send out the evaluation data on **June 15th (tentative)**.
+- Participants must submit their predictions by **June 20th (tentative)** to be eligible for the final assessment and potential awards.
 - You can submit a 2-6 page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings once accepted.
   
 ## What Can Be Explored?
