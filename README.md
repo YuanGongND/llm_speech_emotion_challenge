@@ -87,7 +87,6 @@ If you have any questions regarding the challenge, please ask them in the GitHub
 
 ## Organizers
 
-### Co-organizers
 - **Yuanchao Li**
   - Email: yuanchao.li@ed.ac.uk
 - **Yuan Gong**
