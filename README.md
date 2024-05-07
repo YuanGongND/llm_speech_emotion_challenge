@@ -61,12 +61,6 @@ To encourage innovation, we do not place any restrictions on the methods used, a
 - Any method, including LLM-based methods or conventional non-LLM based methods (e.g., BERT, LIWC, etc).
 - Any large language model, including open-sourced ones (e.g., LLaMA, finetuned or original ones) or API-based ones (e.g., GPT-4).
 - An arbitrary long context window.
-  
-However, for fairness considerations, the model must take our provided data (i.e., ASR transcripts) as input. You cannot:
-- Use raw audio data as input.
-- Use your own ASR model to transcribe the audio.
-- You cannot use any ground-truth emotion label in the entire conversation as prior knowledge, we will not provide ground truth label for our evaluation set.
-- You can use the conversation prior to the sentence requiring a prediction as context, but NOT the conversation that follows. I.e., it needs to be causal inference.
 
 ### Step 3: Evaluation Phase
 
@@ -74,6 +68,22 @@ However, for fairness considerations, the model must take our provided data (i.e
 - We will send out the evaluation data on **June 15th (tentative, subject to change)**.
 - Participants must submit their predictions by **June 20th (tentative, subject to change)** to be eligible for the final assessment and potential awards.
 - You can submit a 2-6 page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings if accepted.
+
+## Rules 
+
+For fairness considerations. We have the following restrictions:
+
+### Data
+
+- You can use additional datasets to train your model, but they must NOT include IEMOCAP (except for the portion we provide to you). This is because we use part of IEMOCAP as our evaluation data. If additional datasets are used, you need to clearly mention the datasets used in the paper.
+- For any datasets (including those we provide and your own), you can only use automatically transcribed text as model input, not raw audio or manually transcribed text.
+
+### Method
+
+- You cannot use raw audio data as input; the model must take text as input.
+- You cannot manually transcribe the audio or annotate the emotion.
+- You cannot use any ground-truth emotion label in the entire conversation as prior knowledge, we will not provide ground truth label for our evaluation set.
+- You can use the conversation prior to the sentence requiring a prediction as context, but NOT the conversation that follows. I.e., it needs to be causal inference.
   
 ## What Can Be Explored?
 
