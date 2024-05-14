@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are excited to introduce the inaugural **LLM-Based Post ASR Speech Emotion Recognition Challenge** (Part of the [SLT 2024 GenSEC Challenge](https://2024.ieeeslt.org)), the first challenge dedicated to exploring and advancing the capabilities of large language models (LLMs) in the field of speech emotion recognition. This challenge is designed to bring together enthusiasts, developers, and researchers to push the boundaries of emotional AI and speech analysis technology. Participants will have the opportunity to develop models that can accurately recognize and interpret emotions from spoken text (i.e., ASR Transcripts) using our provided dataset and scripts.
+We are excited to introduce the inaugural **LLM-Based Post ASR Speech Emotion Recognition Challenge** (Part of the [SLT 2024 GenSEC Challenge](https://2024.ieeeslt.org/challenges/#1715507565729-916ec1d3-b60d)), the first challenge dedicated to exploring and advancing the capabilities of large language models (LLMs) in the field of speech emotion recognition. This challenge is designed to bring together enthusiasts, developers, and researchers to push the boundaries of emotional AI and speech analysis technology. Participants will have the opportunity to develop models that can accurately recognize and interpret emotions from spoken text (i.e., ASR Transcripts) using our provided dataset and scripts.
 
 Note: This challenge is based on ASR-transcribed spoken text, **NOT** raw audio.
 
