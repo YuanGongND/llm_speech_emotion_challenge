@@ -111,6 +111,17 @@ If you have any questions regarding the challenge, please ask them in the GitHub
 ## Reference
 
 ```
+@article{busso2008iemocap,
+  title={IEMOCAP: Interactive emotional dyadic motion capture database},
+  author={Busso, Carlos and Bulut, Murtaza and Lee, Chi-Chun and Kazemzadeh, Abe and Mower, Emily and Kim, Samuel and Chang, Jeannette N and Lee, Sungbok and Narayanan, Shrikanth S},
+  journal={Language resources and evaluation},
+  volume={42},
+  pages={335--359},
+  year={2008},
+  publisher={Springer}
+}
+```
+```
 @article{li2024speech,
   title={Speech Emotion Recognition with ASR Transcripts: A Comprehensive Study on Word Error Rate and Fusion Techniques},
   author={Li, Yuanchao and Bell, Peter and Lai, Catherine},
