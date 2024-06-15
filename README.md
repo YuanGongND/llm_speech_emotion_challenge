@@ -66,7 +66,7 @@ To encourage innovation, we do not place any restrictions on the methods used, a
 
 - Models will be evaluated with 4-class unweighted average accuracy.
 - We will send out the evaluation data on **June 15th (tentative, subject to change)**.
-- Participants must submit their predictions by **June 20th (tentative, subject to change)** to be eligible for the final assessment and potential awards.
+- Participants must submit their predictions by **June 27th (tentative, subject to change)** to be eligible for the final assessment and potential awards.
 - You can submit a 4-6 page paper to SLT2024 (by June 20th), it will be included in the main SLT 2024 proceedings if accepted.
 
 ## Rules 
@@ -107,3 +107,14 @@ If you have any questions regarding the challenge, please ask them in the GitHub
   - Email: yuangong@mit.edu
 
 - **SLT24 GenSEC Challenge Organizer:** Huck Yang
+
+## Reference
+
+```
+@article{li2024speech,
+  title={Speech Emotion Recognition with ASR Transcripts: A Comprehensive Study on Word Error Rate and Fusion Techniques},
+  author={Li, Yuanchao and Bell, Peter and Lai, Catherine},
+  journal={arXiv preprint arXiv:2406.08353},
+  year={2024}
+}
+```
