@@ -18,23 +18,23 @@ A data entry will look like this:
 
 ```json
  {
-  "need_prediction": "no",
-  "emotion": "fru",
-  "id": "Ses01F_script01_1_F000",
+  "need_prediction": "yes",
+  "emotion": "ang",
+  "id": "Ses01F_script03_2_F027",
   "speaker": "Ses01_F",
-  "groundtruth": "What's he going to say?",
-  "hubertlarge": "what's he ging to say",
-  "w2v2100": "what's he gen to say",
-  "w2v2960": "what's he going to say",
-  "w2v2960large": "what's he going to say",
-  "w2v2960largeself": "what's he going to say",
-  "wavlmplus": "whats he gon to say",
-  "whisperbase": "What's he gonna say?",
-  "whisperlarge": "What's he gonna say?",
-  "whispermedium": "What's he gonna say?",
-  "whispersmall": "What's he gonna say?",
-  "whispertiny": "What's he gonna say?"
- }
+  "groundtruth": "Oh shut up.",
+  "hubertlarge": "oh shut u i will come",
+  "w2v2100": "no shut a i wille tra",
+  "w2v2960": "no shudder iwil e com",
+  "w2v2960large": "o shudder obly come",
+  "w2v2960largeself": "oh shudderco",
+  "wavlmplus": "osabfa",
+  "whisperbase": "Oh",
+  "whisperlarge": "Oh shut up.",
+  "whispermedium": "Oh shut up.",
+  "whispersmall": "Oh shut up",
+  "whispertiny": "Oh"
+ },
 ```
 
 where 
