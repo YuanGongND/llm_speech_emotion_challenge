@@ -65,9 +65,9 @@ To encourage innovation, we do not place any restrictions on the methods used, a
 ### Step 3: Evaluation Phase
 
 - Models will be evaluated with 4-class unweighted average accuracy.
-- We will send out the evaluation data on **June 15th (tentative, subject to change)**.
-- Participants must submit their predictions by **June 27th (tentative, subject to change)** to be eligible for the final assessment and potential awards.
-- You can submit a 4-6 page paper to SLT2024 (by June 27th with update by July 7th), it will be included in the main SLT 2024 proceedings if accepted.
+- We will send out the evaluation data on **June 15th**.
+- Participants must submit their predictions by **July 4th** to be eligible for the final assessment and potential awards.
+- You can submit a 4-6 page paper to SLT2024 (by June 27th with update by July 4th), it will be included in the main SLT 2024 proceedings if accepted.
 
 ## Rules 
 
